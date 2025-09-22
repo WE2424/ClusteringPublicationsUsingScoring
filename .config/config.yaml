@@ -1,0 +1,47 @@
+dbAccess:
+  useDb: false
+  server: 'server'
+  database: 'db'
+  username: 'user'
+  password: 'password'
+
+threshold: 6
+jaccard_threshold_words: 1
+
+weights:
+  - 5  #author_names
+  - 6  #paper_title
+  - 5  #journal_name
+  - 5  #volume
+  - 2  #issue
+  - 5  #page_start
+  - 5  #page_end
+  - 5  #publication_year
+  - 3  #publication_month
+  - 1  #publication_day
+  - 0  #ISSN
+  - 0  #ISBN
+  - 12 #DOI
+  - 0  #XP
+  - 2  #URL
+  - 1  #rest_number
+  - 1  #rest_text
+
+column_titles:
+  - author_names
+  - paper_title
+  - journal_name
+  - volume
+  - issue
+  - page_start
+  - page_end
+  - publication_year
+  - publication_month
+  - publication_day
+  - ISSN
+  - ISBN
+  - DOI
+  - XP
+  - URL
+  - rest_number
+  - rest_text

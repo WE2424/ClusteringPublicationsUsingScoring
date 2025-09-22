@@ -1,0 +1,12 @@
+'cluster_id': [101, 102, 103, 104, 105, 105, 105, 105]
+'npl_publn_id': [101, 102, 103, 104, 105, 106, 107, 108]
+'npl_biblio': [
+    "Smith, J. (2020). *Deep Learning for Natural Language Processing*. Journal of AI Research, 45(3), 123-140.",
+    "Chen, L., & Zhao, Y. (2019). *Quantum Computing: A New Era*. Computing Reviews, 61(4), 567-580.",
+    "Johnson, M. et al. (2021). *Applications of Reinforcement Learning in Robotics*. Robotics Today, 12(1), 45-59.",
+    "O'Reilly, T. (2018). *The Evolution of Open Source*. Software Studies Quarterly, 9(2), 200-215.",
+    "Kumar, S., & Tan, B. (2022). *Cybersecurity Trends in 2020s*. Journal of Cybersecurity, 10(1), 30-48.",
+    "Tan, B. (2022). *Cybersecurity Trends in 2020s*. Journal of Cybersecurity, 10(1), 30-48.",
+    "Kumar, S. (2022). Cybersecurity Trends in 2020s. 10, 30--48.",
+    "Kumar, S., & Tan, B. *Cybersecurity Trends in 2020s*. Journal of Cybersecurity",
+]
