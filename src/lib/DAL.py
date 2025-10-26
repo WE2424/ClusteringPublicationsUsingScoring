@@ -28,6 +28,6 @@ class Repository:
         engine.dispose()
 
     def get_sample(self):
-        with open('ClusteringPublicationsUsingScoring/samples/sample.yaml') as f:
+        with open('samples/sample.yaml') as f:
             data = yaml.load(f, Loader=yaml.FullLoader)
         return pd.DataFrame(data)
